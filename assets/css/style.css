@@ -1,0 +1,25 @@
+
+
+/* NAV */
+
+.ms-bg-dark-blue{
+    background-color: #2C3E50;
+}
+
+.navbar-toggler {
+    border: var(--bs-border-width) solid white;
+  
+}
+
+.navbar-collapse{
+    flex-grow: 0;
+}
+
+/* NAV */
+
+/* HEADER */
+
+.avatar > img{
+    width: 50%;
+}
+/* HEADER */
