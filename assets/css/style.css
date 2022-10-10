@@ -1,5 +1,8 @@
 
 
+
+/* HEADER */
+
 /* NAV */
 
 .ms-bg-dark-blue{
@@ -17,9 +20,27 @@
 
 /* NAV */
 
-/* HEADER */
-
 .avatar > img{
-    width: 50%;
+    width: 300px;
+}
+
+.bg-aqua-green{
+    background-color: #1ABC9C;
+}
+
+.ms-fs-big{
+    font-size: 2.5rem;
+}
+
+.ms-divisor{
+    height: 3px;
+    background-color: white;
+    width: 50px;
 }
 /* HEADER */
+
+/* MAIN */
+
+/* SECTION-1 */
+
+/* MAIN */
