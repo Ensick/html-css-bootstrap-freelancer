@@ -63,4 +63,16 @@
     margin-right: 0.5rem;
 }
 
+.ms-container-60{
+    width: 60%;
+    margin: auto;
+}
+
+/* SECTION-3 */
+
+.ms-btn-success {
+    background-color: #1ABC9C;
+    color: white;
+}
+
 /* MAIN */
