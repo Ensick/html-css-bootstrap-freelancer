@@ -43,4 +43,22 @@
 
 /* SECTION-1 */
 
+.ms-card > img{
+    width: 100%;
+}
+
+.ms-divisor-dark{
+    height: 3px;
+    background-color: #2C3E50;
+    width: 50px;
+}
+
+.ms-text-dark{
+    color: #2C3E50;
+}
+
+/* SECTION-2 */
+
+
+
 /* MAIN */
